@@ -1,0 +1,284 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: USGS-RIDEM
+      Originator: RIGIS
+      Publication_Date: 19951001
+      Title: Water Supply Districts; s44uwd95
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Providence, Rhode Island
+        Publisher: RIGIS
+      Other_Citation_Details: Suggested bibliographic reference: RIGIS, 1995. Water Supply Districts; s44uwd95. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 16 October 2014).
+      Online_Linkage: http://www.rigis.org
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: Rhode Island Geographic Information System (RIGIS)
+          Publication_Date: 1993
+          Title: Rhode Island Geographic Information System (RIGIS) Data Distribution System
+          Online_Linkage: http://www.rigis.org
+  Description:
+    Abstract: Public water supplier districts in Rhode Island
+    Purpose: utility inventory and planning
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 199510
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -71.891071
+      East_Bounding_Coordinate: -71.134477
+      North_Bounding_Coordinate: 42.018492
+      South_Bounding_Coordinate: 41.145550
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: utilitiesCommunication
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: public water
+      Theme_Keyword: utility
+      Theme_Keyword: supplier
+      Theme_Keyword: district
+    Place:
+      Place_Keyword_Thesaurus: GNIS
+      Place_Keyword: United States
+      Place_Keyword: Rhode Island
+      Place_Keyword: northeast
+      Place_Keyword: New England
+  Access_Constraints: None.
+  Use_Constraints:
+    This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+    Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products. Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Rhode Island Water Resources Board
+        Contact_Person: Kathleen Crawley
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: One Capitol Hill, 3rd Floor
+        City: Providence
+        State_or_Province: RI
+        Postal_Code: 02908
+      Contact_Voice_Telephone: 401-222-6696
+      Contact_Electronic_Mail_Address: Kathleen.Crawley@wrb.ri.gov
+  Data_Set_Credit: RIDEM; RIGIS
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: RIGIS standards; visual scanning of attribute tables
+  Logical_Consistency_Report: visual scanning of attribute tables; inspection of overlay plots
+  Completeness_Report: topologically complete arc-info polygon coverage
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: plus or minus 100 meters; inspection of overlay plots
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: USGS-RIDEM
+          Publication_Date: 1995
+          Title: RI water supplier maps
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1975
+            Ending_Date: 1983
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: RIDEM
+      Source_Contribution: Produced Maps
+    Process_Step:
+      Process_Description: Water supplier district outlines were transferred onto quad maps and manually digitized from digitizer tables
+      Process_Date: 199506
+    Process_Step:
+      Process_Description: Updated Point of Contact information for this dataset from "RIGIS Coordinator" to "Kathleen Crawley."
+      Process_Date: 20150601
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: University of Rhode Island Environmental Data Center
+            Contact_Person: Erica Tefft
+          Contact_Position: Research Associate
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Coastal Institute
+            Address: 1 Greenhouse Road
+            City: Kingston
+            State_or_Province: RI
+            Postal_Code: 02881
+          Contact_Voice_Telephone: 401-874-5054
+          Contact_Electronic_Mail_Address: erica@edc.uri.edu
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 54
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Label point
+      Point_and_Vector_Object_Count: 51
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 54
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Point
+      Point_and_Vector_Object_Count: 58
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Label point
+      Point_and_Vector_Object_Count: 114
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 3800
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999994
+            Longitude_of_Central_Meridian: -71.500000
+            Latitude_of_Projection_Origin: 41.083333
+            False_Easting: 328083.333333
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000512
+          Ordinate_Resolution: 0.000512
+        Planar_Distance_Units: survey feet
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+      Altitude_Resolution: 0.000010
+      Altitude_Encoding_Method: Explicit elevation coordinate included with horizontal coordinates
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Water_Supply_Districts
+    Attribute:
+      Attribute_Label: MGY
+      Attribute_Definition: capacity in million gallons per year
+      Attribute_Definition_Source: ridem water supply management
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 15333
+          Attribute_Units_of_Measure: million gallons per year
+    Attribute:
+      Attribute_Label: COLORSHD
+      Attribute_Definition: unknown
+    Attribute:
+      Attribute_Label: ELECSHDB
+      Attribute_Definition: unknown
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: OBJECTID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: SUPPLIER
+      Attribute_Definition: name of water district supplier
+      Attribute_Definition_Source: ridem water supply management
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Individual names
+    Attribute:
+      Attribute_Label: SCIT_H2O
+      Attribute_Definition: unknown
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: yes
+          Enumerated_Domain_Value_Definition: unknown
+          Enumerated_Domain_Value_Definition_Source: ridem water supply management
+        Enumerated_Domain:
+          Enumerated_Domain_Value: no
+          Enumerated_Domain_Value_Definition: unknown
+          Enumerated_Domain_Value_Definition_Source: ridem water supply management
+    Attribute:
+      Attribute_Label: GlobalID
+    Attribute:
+      Attribute_Label: H2O_SOURCE
+      Attribute_Definition: surface water or groundwater reservoirs
+      Attribute_Definition_Source: ridem water supply management
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: sw
+          Enumerated_Domain_Value_Definition: surface water reservoir
+          Enumerated_Domain_Value_Definition_Source: ridem water supply management
+        Enumerated_Domain:
+          Enumerated_Domain_Value: gw
+          Enumerated_Domain_Value_Definition: groundwater reservoir
+          Enumerated_Domain_Value_Definition_Source: ridem water supply management
+    Attribute:
+      Attribute_Label: Shape.area
+    Attribute:
+      Attribute_Label: Shape.len
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: University of Rhode Island Environmental Data Center
+        Contact_Person: Erica Tefft
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 1 Greenhouse Road
+        City: Kingston
+        State_or_Province: RI
+        Postal_Code: 02881
+      Contact_Voice_Telephone: 401-874-5054
+      Contact_Electronic_Mail_Address: erica@edc.uri.edu
+      Contact_Instructions: email preferred
+  Distribution_Liability: This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Esri shapefile
+        File_Decompression_Technique: ZIP
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.rigis.org
+    Fees: No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.
+Metadata_Reference_Information:
+  Metadata_Date: 20070628
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: RI Department of Administration; Division of Information Technology
+        Contact_Person: REQUIRED: The person responsible for the metadata information.
+      Contact_Position: RIGIS Coordinator
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 1 Capitol Hill
+        City: Providence
+        State_or_Province: Rhode Island
+        Postal_Code: 02908
+        Country: USA
+      Contact_Voice_Telephone: 401-222-6483
+      Contact_Facsimile_Telephone: 401-222-6482
+      Contact_Electronic_Mail_Address: rigis@admin.ri.gov
+      Hours_of_Service: 8:00 - 3:30
+      Contact_Instructions: E-mail preferred
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
